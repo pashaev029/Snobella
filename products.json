@@ -1,0 +1,190 @@
+{
+  "bag": [
+    {
+      "id": 1,
+      "name": "Shoulder  bags",
+      "img": "img/pink.svg"
+    },
+    {
+      "id": 2,
+      "name": "Hand bag",
+      "img": "img/gucci.svg"
+    },
+    {
+      "id": 3,
+      "name": "Backpack",
+      "img": "img/backbag.svg"
+    },
+    {
+      "id": 4,
+      "name": "Evenings bags 1",
+      "img": "img/handbag.svg"
+    }
+  ],
+
+  "featuredProducts": [
+    {
+      "id": 1,
+      "img": "img/yp-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "featured"
+    },
+    {
+      "id": 2,
+      "img": "img/p-bag.svg",
+      "stars": 3,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "featured"
+    },
+    {
+      "id": 3,
+      "img": "img/ybr-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "featured"
+    },
+    {
+      "id": 4,
+      "img": "img/gucci-bag.svg",
+      "stars": 2,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "featured"
+    },
+    {
+      "id": 5,
+      "img": "img/bw-bag.svg",
+      "stars": 2,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "featured"
+    }
+  ],
+
+  "bestSeller": [
+    {
+      "id": 1,
+      "img": "img/gucci-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "name": "Hand bag",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "best",
+      "star": "icons/star.svg"
+    },
+    {
+      "id": 2,
+      "img": "img/bw-bag.svg",
+      "stars": 3,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "name": "Shoulder  bag",
+      "discount": 340.0,
+      "category": "best"
+    },
+    {
+      "id": 3,
+      "img": "img/br-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "best"
+    },
+    {
+      "id": 4,
+      "img": "img/yp-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "best"
+    },
+    {
+      "id": 5,
+      "img": "img/p-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "best"
+    }
+  ],
+
+  "discountProducts": [
+    {
+      "id": 1,
+      "img": "img/yp-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "discount"
+    },
+    {
+      "id": 2,
+      "img": "img/gucci-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "New",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "discount"
+    },
+    {
+      "id": 3,
+      "img": "img/p-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "discount"
+    },
+    {
+      "id": 4,
+      "img": "img/bw-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "info": "30%",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "discount"
+    },
+    {
+      "id": 5,
+      "img": "img/ybr-bag.svg",
+      "stars": 4,
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+      "price": 130.0,
+      "discount": 340.0,
+      "category": "discount"
+    }
+  ],
+
+  "ProductPhoto": [
+    {
+      "id": 1
+    }
+  ]
+}
